@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "龍",
+  "base_artist": "Masaharu Fukuyama",
+  "createdAt": "2025-12-02T04:58:34.240704Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "龍",
+      "artist": "岡崎体育",
+      "has_synced": false,
+      "path": "select/01_龍_岡崎体育.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "龍",
+      "artist": "蘇芮",
+      "has_synced": false,
+      "path": "select/02_龍_蘇芮.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "龍",
+      "artist": "Amano, Tsuki",
+      "has_synced": true,
+      "path": "select/03_龍_Amano,_Tsuki.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "龍",
+      "artist": "天野月",
+      "has_synced": true,
+      "path": "select/04_龍_天野月.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "龍",
+      "artist": "GAI周延",
+      "has_synced": false,
+      "path": "select/05_龍_GAI周延.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "龍",
+      "artist": "福山 雅治",
+      "has_synced": false,
+      "path": "select/pl_01_龍_福山_雅治.txt"
+    }
+  ]
+}
